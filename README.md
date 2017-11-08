@@ -1,1 +1,1 @@
-Changed the functions for global entries.
+A branch for everyone.
