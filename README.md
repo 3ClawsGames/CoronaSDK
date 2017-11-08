@@ -1,2 +1,1 @@
-# CoronaSDK
-# CoronaSDK
+Changed the functions for global entries.
